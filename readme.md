@@ -37,4 +37,4 @@
 - [personal website for a doctor](https://drabdulmannan.netlify.app/) [gatsbyjs, nextjs, sass]
 - [website for a developer team](https://rubbberband.github.io/) [vanillaJS, css] (discontinued) 
 
-NOTE: for the projects that are not live, i have taken screenshots and added them in seperate folders. check the  
+NOTE: for the projects that are not live, i have taken screenshots and added them in seperate folders. please check the repository at https://github.com/NirobNabil/Portfolio
